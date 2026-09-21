@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>Context Lens</string><key>CFBundleIdentifier</key><string>com.yiming.contextlens</string><key>CFBundleName</key><string>Context Lens</string><key>CFBundleDisplayName</key><string>Context Lens</string><key>CFBundlePackageType</key><string>APPL</string><key>CFBundleShortVersionString</key><string>0.2.0</string><key>CFBundleVersion</key><string>2</string><key>LSMinimumSystemVersion</key><string>14.0</string><key>LSUIElement</key><true/><key>NSAccessibilityUsageDescription</key><string>Context Lens 仅在本机读取你主动选中的英文，以显示翻译按钮；不会复制到剪贴板。</string><key>NSAppTransportSecurity</key><dict><key>NSAllowsArbitraryLoads</key><false/></dict>
+</dict></plist>
